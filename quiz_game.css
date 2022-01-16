@@ -1,0 +1,59 @@
+#fruity_maths_logo {
+width:120px;
+height:120px;
+}
+#title{
+font-size:xx-large;
+}
+#player1LoginTitle{
+font-size: xx-large;
+}
+#player2LoginTitle{
+font-size: xx-large;
+}
+#login{
+color: forestgreen;
+height: 50px;
+width: 100px;
+font-size: 30px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color: chartreuse;
+}
+#player1logininput{
+height: 50px;
+width: 500px;
+}
+#player2logininput{
+height: 50px;
+width: 500px;
+}
+#GamePage_Heading{
+font-size: xx-large;
+}
+#check{
+color: black;
+height:30px;
+width:80px;
+font-size: 10px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color: darksalmon;
+cursor: pointer;
+}
+#output{
+background-color: rgb(163, 250, 1);
+height:100px;
+width:300px;
+border-radius: 15px;
+}
+#Numbers{
+background-color: yellow;
+height:150;
+width:300;
+border-radius: 25px;
+}
+#Send{
+color:black;
+background-color: darkgreen;
+border-radius: 90px;
+cursor: pointer;
+}
